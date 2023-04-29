@@ -1,4 +1,4 @@
-# aplicação Node.js (express) que consome duas APIs distintas e efetuamos o deploy na AWS Elastic Beanstalk.
+# Aplicação Node.js (express) que consome duas APIs distintas e efetuamos o deploy na AWS Elastic Beanstalk.
 
 ## Ferramentas / plataformas utilizadas
 
