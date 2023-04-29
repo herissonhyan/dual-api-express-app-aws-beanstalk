@@ -1,10 +1,4 @@
-# Avaliação Sprint 4 - Programa de Bolsas Compass UOL / AWS e IFCE
-
-> Avaliação da quarta sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.
-
-## Objetivos
-
-Com base nas atividades anteriores realizadas, criamos uma aplicação Node.js (express) que consome duas APIs distintas e efetuamos o deploy na AWS Elastic Beanstalk.
+# aplicação Node.js (express) que consome duas APIs distintas e efetuamos o deploy na AWS Elastic Beanstalk.
 
 ## Ferramentas / plataformas utilizadas
 
