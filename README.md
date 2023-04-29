@@ -271,8 +271,6 @@ Basta clicar em "Upload and deploy" e selecionar o arquivo .zip com o projeto at
 ## Extensão do Arquivo 
 Deve-se atentar no formato de deploy da aplicações na Elastic Beanstalk. Para que não haja erro nas operações, os arquivos devem está agrupados em um .ZIP, pois existem outras formas de comprimir arquivos, sendo que estás não são compatíveis.
 
-## Url da aplicação disponibilizada pela AWS
-http://appnodejs-env.eba-ygc97ixr.us-east-1.elasticbeanstalk.com/
 
 ## Autores
 
